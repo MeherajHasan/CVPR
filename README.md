@@ -1,0 +1,2 @@
+# CVPR
+CVPR [C] || FALL 2025-2026 || AIUB
